@@ -1,2 +1,2 @@
 # Bits&Bytes
-It's a simple tool to convert decimal number into binary number.
+Collection of simple tools for number system conversions...
